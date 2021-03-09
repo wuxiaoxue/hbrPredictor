@@ -2,6 +2,7 @@
 hbrPredictor, a tool used for high impact bug report prediction.
 
 =============================================================
+
 Wu, Xiaoxue, Wei Zheng, Xiang Chen, Yu Zhao, Tingting Yu, and Dejun Mu. "Improving high-impact bug report prediction with combination of interactive machine learning and active learning." Information and Software Technology 133 (2021): 106530.
 
 Context: Bug reports record issues found during software development and maintenance. A high-impact bug report (HBR) describes an issue that can cause severe damage once occurred after deployment. Identifying HBRs from the bug repository as early as possible is crucial for guaranteeing
